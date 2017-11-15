@@ -15,4 +15,4 @@ History of Type
 ----------------
 - [History of Type 1](https://lucyboyd4.github.io/john_baskerville-/thebriefhistoryoftype.html)
 
-- [History of Type 2](https://lucyboyd4.github.io/john_baskerville-/thebriefhistoryoftype2.html)
+- [History of Type 2](https://lucyboyd4.github.io/john_baskerville-/Thebriefhistoryoftype2.html)
