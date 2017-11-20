@@ -9,6 +9,7 @@ John Baskerville
 
 - [John Baskerville 3](https://lucyboyd4.github.io/john_baskerville-/john-baskerville3.html)
 
+- [John Baskerville 4](https://lucyboyd4.github.io/john_baskerville-/john-baskerville4.html)
 
 
 History of Type
