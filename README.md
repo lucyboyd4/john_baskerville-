@@ -21,4 +21,4 @@ History of Type
 
 - [History of Type 2](https://lucyboyd4.github.io/john_baskerville-/Thebriefhistoryoftype2.html)
 
-- [History of Type 3](https://lucyboyd4.github.io/john_baskerville-/Thebriefhistoryoftype3.html)
+- [History of Type 3](https://lucyboyd4.github.io/john_baskerville-/thebriefhistoryoftype3.html)
