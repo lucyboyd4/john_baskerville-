@@ -15,6 +15,8 @@ John Baskerville
 
 - [John Baskerville 6](https://lucyboyd4.github.io/john_baskerville-/john-baskerville6.html)
 
+- [John Baskerville 7](https://lucyboyd4.github.io/john_baskerville-/john-baskerville7.html)
+
 
 History of Type
 ----------------
