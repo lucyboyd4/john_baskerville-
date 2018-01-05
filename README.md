@@ -17,6 +17,7 @@ John Baskerville
 
 - [John Baskerville 7](https://lucyboyd4.github.io/john_baskerville-/john-baskerville7.html)
 
+- [John Baskerville 8](https://lucyboyd4.github.io/john_baskerville-/baskervilletypography.html)
 
 History of Type
 ----------------
